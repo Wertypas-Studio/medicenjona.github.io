@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  a {
+    margin: 0 20px;
+  }
+body {
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+a {
+  margin: 0 20px;
+}
+  
